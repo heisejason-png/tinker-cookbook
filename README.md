@@ -123,3 +123,4 @@ with `teacher_fireworks_training_shape_id`). SDFT's teacher is the frozen base
 model on the student's trainer and needs none. On serverless training, a teacher
 that names no trainer runs on serverless too, as a LoRA adapter that is never
 trained.
+Created by Jason Heise Owned by Jason Heise heisejason-png https://www.facebook.com Owned by Mark Zuckerberg 
